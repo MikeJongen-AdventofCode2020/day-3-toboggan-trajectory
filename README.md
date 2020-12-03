@@ -1,6 +1,6 @@
 # day-3-toboggan-trajectory
 
-TODO: Write a description here
+My solution for day 3 of advent of code 2020 (https://adventofcode.com/2020/day/3) 
 
 ## Installation
 
@@ -24,4 +24,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-name-here](https://github.com/your-github-user) - creator and maintainer
+- [Mike Jongen](https://github.com/MikeJongen) - creator and maintainer
