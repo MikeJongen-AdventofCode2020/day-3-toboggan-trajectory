@@ -1,0 +1,13 @@
+name: day-3-toboggan-trajectory
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  day-3-toboggan-trajectory:
+    main: src/day-3-toboggan-trajectory.cr
+
+crystal: 0.35.1
+
+license: MIT
